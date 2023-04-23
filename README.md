@@ -13,21 +13,16 @@ bash <(curl -L https://tinyurl.com/2p92vtez)
 > 🤡 Or simply run this commands one by on.
 ```
 clear
-apt update && apt upgrate
+apt update && apt upgrade
 clear
 apt install nodejs --fix-missing -qq -yy
 clear
 pkg install git -qq -y
 clear
-npm install axios
-clear
-npm install chalk@4.1.2
-clear
-npm install @adiwajshing/baileys@3.5.3
-clear
-git clone https://github.com/GasComIT/Vlkyre-QR
-clear
+got clone https://github.com/GasComIT/Vlkyre-QR
 cd Vlkyre-QR
+clear
+npm install
 clear
 node index.js
 ```
