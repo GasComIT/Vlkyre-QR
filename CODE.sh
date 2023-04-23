@@ -9,7 +9,7 @@ npm install axios
 clear
 npm install chalk@4.1.2
 clear
-npm install @adiwajshing/baileys@3.5.3
+npm install
 clear
 git clone https://github.com/GasComIT/Vlkyre-QR
 clear
